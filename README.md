@@ -9,7 +9,7 @@
 
 ## Live Demo
 [Click 
-here](https://github.com/nwekejohnbosco908-pixel/simple-calculator)
+here](https://nwekejohnbosco908-pixel.github.io/Simple-Calculator/)
 
 ## Tech Used
 - HTML
